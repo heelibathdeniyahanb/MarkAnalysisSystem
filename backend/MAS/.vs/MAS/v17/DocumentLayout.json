@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\models\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\models\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\migrations\\20241214054834_createusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\migrations\\20241214054834_createusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\migrations\\20241214090913_changesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\migrations\\20241214090913_changesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\migrations\\20241215002751_marksandtestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\migrations\\20241215002751_marksandtestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\migrations\\20241214143247_emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\migrations\\20241214143247_emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\markanalysis system\\backend\\mas\\mas\\migrations\\20241215025823_resolverelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\migrations\\20241215025823_resolverelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "MAS\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Controllers\\TestController.cs",
+              "RelativeToolTip": "MAS\\Controllers\\TestController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAQwE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T00:31:48.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Program.cs",
+              "RelativeDocumentMoniker": "MAS\\Program.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Program.cs",
+              "RelativeToolTip": "MAS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:39:30.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241215025823_ResolveRelation.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Migrations\\20241215025823_ResolveRelation.cs",
+              "RelativeDocumentMoniker": "MAS\\Migrations\\20241215025823_ResolveRelation.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Migrations\\20241215025823_ResolveRelation.cs",
+              "RelativeToolTip": "MAS\\Migrations\\20241215025823_ResolveRelation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T02:58:23.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MAS\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MAS\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAA1wLUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:49:40.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "MAS\\Models\\Email.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Models\\Email.cs",
+              "RelativeToolTip": "MAS\\Models\\Email.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA8wBoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:40:25.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\.env",
+              "RelativeDocumentMoniker": "MAS\\.env",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\.env",
+              "RelativeToolTip": "MAS\\.env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-14T05:35:34.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MAS\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Services\\UserService.cs",
+              "RelativeToolTip": "MAS\\Services\\UserService.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAUwH0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T04:33:13.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "MAS\\Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Data\\DatabaseContext.cs",
+              "RelativeToolTip": "MAS\\Data\\DatabaseContext.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:36:20.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mark.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Models\\Mark.cs",
+              "RelativeDocumentMoniker": "MAS\\Models\\Mark.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Models\\Mark.cs",
+              "RelativeToolTip": "MAS\\Models\\Mark.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T00:14:38.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Services\\TestService.cs",
+              "RelativeDocumentMoniker": "MAS\\Services\\TestService.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Services\\TestService.cs",
+              "RelativeToolTip": "MAS\\Services\\TestService.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAqwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T00:36:52.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MAS\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Models\\User.cs",
+              "RelativeToolTip": "MAS\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T04:12:59.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "MAS\\Models\\Test.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Models\\Test.cs",
+              "RelativeToolTip": "MAS\\Models\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T00:10:43.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "MAS\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Services\\TokenService.cs",
+              "RelativeToolTip": "MAS\\Services\\TokenService.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAwwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T06:21:56.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "MAS\\Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "MAS\\Controllers\\EmailController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:24:33.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "MAS\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "MAS\\Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T04:27:13.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241215002751_MarksAndTestModel.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Migrations\\20241215002751_MarksAndTestModel.cs",
+              "RelativeDocumentMoniker": "MAS\\Migrations\\20241215002751_MarksAndTestModel.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Migrations\\20241215002751_MarksAndTestModel.cs",
+              "RelativeToolTip": "MAS\\Migrations\\20241215002751_MarksAndTestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T00:27:51.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "MAS\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "MAS\\Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T04:27:29.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\appsettings.json",
+              "RelativeDocumentMoniker": "MAS\\appsettings.json",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\appsettings.json",
+              "RelativeToolTip": "MAS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T05:42:00.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241214143247_EmailModel.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Migrations\\20241214143247_EmailModel.cs",
+              "RelativeDocumentMoniker": "MAS\\Migrations\\20241214143247_EmailModel.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Migrations\\20241214143247_EmailModel.cs",
+              "RelativeToolTip": "MAS\\Migrations\\20241214143247_EmailModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:32:48.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241214090913_ChangeSize.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Migrations\\20241214090913_ChangeSize.cs",
+              "RelativeDocumentMoniker": "MAS\\Migrations\\20241214090913_ChangeSize.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Migrations\\20241214090913_ChangeSize.cs",
+              "RelativeToolTip": "MAS\\Migrations\\20241214090913_ChangeSize.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:09:14.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241214054834_CreateUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Migrations\\20241214054834_CreateUserModel.cs",
+              "RelativeDocumentMoniker": "MAS\\Migrations\\20241214054834_CreateUserModel.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\MarkAnalysis System\\backend\\MAS\\MAS\\Migrations\\20241214054834_CreateUserModel.cs",
+              "RelativeToolTip": "MAS\\Migrations\\20241214054834_CreateUserModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:48:35.507Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

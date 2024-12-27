@@ -1,0 +1,6 @@
+@MAS_HostAddress = http://localhost:5072
+
+GET {{MAS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
