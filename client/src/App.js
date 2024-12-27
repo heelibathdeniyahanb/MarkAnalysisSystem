@@ -10,6 +10,7 @@ import UserListPage from './Pages/Admin/UserListPage';
 import TestList from './Components/Admin/TestList';
 import TestListPage from './Pages/Admin/TestListPage';
 import MarkListPage from './Pages/Admin/Student/MarkListPage';
+import AdminProfileView from './Pages/Admin/AdminProfileView';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
           <Route path='/user-list' element={<ProtectedRoute><UserListPage></UserListPage></ProtectedRoute>}></Route>
           <Route path='/test-list' element={<ProtectedRoute><TestListPage/></ProtectedRoute>}></Route>
           <Route path='/mark-list' element={<ProtectedRoute><MarkListPage/></ProtectedRoute>}></Route>
+          <Route path='/profile-view' element={<AdminProfileView/>}></Route>
 
       </Routes>
       </UserContextProvider>
