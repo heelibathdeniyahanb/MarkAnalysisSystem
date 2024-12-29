@@ -77,6 +77,52 @@ namespace MAS.Controllers
                 return NotFound();
             return Ok(marks);
         }
+
+        [HttpGet("highest-average")]
+        public async Task<IActionResult> GetHighestAverage()
+        {
+            try
+            {
+                var result = await _testService.GetHighestAverageAsync();
+                if (result == null)
+                    return NotFound("No test data available for analysis.");
+
+                return Ok(result);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal server error: {ex.Message}");
+            }
+        }
+
+        [HttpGet("compare-tests")]
+        public async Task<IActionResult> CompareTests()
+        {
+            try
+            {
+                var result = await _testService.GetTestComparisonDataAsync();
+                return Ok(result);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal server error: {ex.Message}");
+            }
+        }
+
+        [HttpGet("top-students")]
+        public async Task<IActionResult> GetTopStudents()
+        {
+            try
+            {
+                var result = await _testService.GetTopStudentsAsync();
+                return Ok(result);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal server error: {ex.Message}");
+            }
+        }
+
     }
 }
 

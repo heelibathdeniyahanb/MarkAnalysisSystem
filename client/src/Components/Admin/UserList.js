@@ -1,4 +1,3 @@
-// UserList.js - Component to display and manage users
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import toast from 'react-hot-toast';
@@ -8,6 +7,8 @@ export default function UserList() {
     const [loading, setLoading] = useState(true);
     const [deleteModalOpen, setDeleteModalOpen] = useState(false);
     const [userToDelete, setUserToDelete] = useState(null);
+    const [viewModalOpen, setViewModalOpen] = useState(false);
+    const [userToView, setUserToView] = useState(null);
 
     // Fetch users
     useEffect(() => {
@@ -46,22 +47,27 @@ export default function UserList() {
         }
     };
 
+    const handleViewClick = (user) => {
+        setUserToView(user);
+        setViewModalOpen(true);
+    };
+
     if (loading) {
         return <div>Loading...</div>;
     }
 
     return (
-        <div className="container mx-auto p-4">
+        <div className="container mx-auto p-4 mt-16">
             <h2 className="text-2xl font-bold mb-4">User Management</h2>
             
-            <div className="overflow-x-auto">
-                <table className="min-w-full bg-white">
+            <div className="overflow-x-auto mt-10">
+                <table className="min-w-full bg-zinc-900">
                     <thead className="bg-gray-100">
                         <tr>
-                            <th className="px-6 py-3 text-left">Name</th>
-                            <th className="px-6 py-3 text-left">Email</th>
-                            <th className="px-6 py-3 text-left">Role</th>
-                            <th className="px-6 py-3 text-left">Actions</th>
+                            <th className="px-6 py-3 text-center">Name</th>
+                            <th className="px-6 py-3 text-center">Email</th>
+                            <th className="px-6 py-3 text-center">Role</th>
+                            <th className="px-6 py-3 text-center">Actions</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -73,9 +79,15 @@ export default function UserList() {
                                 <td className="px-6 py-4">
                                     <button
                                         onClick={() => handleDeleteClick(user)}
-                                        className="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600"
+                                        className="bg-orange-700 text-white px-4 py-2 rounded hover:bg-orange-600"
                                     >
                                         Delete
+                                    </button>
+                                    <button
+                                        onClick={() => handleViewClick(user)}
+                                        className="bg-green-900 text-white px-4 py-2 rounded hover:bg-green-800 ml-5"
+                                    >
+                                        View
                                     </button>
                                 </td>
                             </tr>
@@ -102,6 +114,27 @@ export default function UserList() {
                                 className="px-4 py-2 bg-red-500 text-white rounded hover:bg-red-600"
                             >
                                 Delete
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            )}
+
+            {/* View User Modal */}
+            {viewModalOpen && (
+                <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center">
+                    <div className="bg-white p-6 rounded-lg max-w-md mx-auto">
+                        <h3 className="text-lg font-semibold mb-4">User Details</h3>
+                        <p><strong>Name:</strong> {`${userToView?.firstName} ${userToView?.lastName}`}</p>
+                        <p><strong>Email:</strong> {userToView?.email}</p>
+                        <p><strong>Student Id:</strong> {userToView?.studentId}</p>
+                        <p><strong>Role:</strong> {userToView?.role === 0 ? 'Admin' : 'Student'}</p>
+                        <div className="mt-4 flex justify-end">
+                            <button
+                                onClick={() => setViewModalOpen(false)}
+                                className="px-4 py-2 bg-gray-500 text-white rounded hover:bg-gray-600"
+                            >
+                                Close
                             </button>
                         </div>
                     </div>
