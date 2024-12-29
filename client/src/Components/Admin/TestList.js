@@ -47,12 +47,12 @@ export default function TestList()  {
   }
 
   return (
-    <div className="container mx-auto p-6">
+    <div className="container mx-auto p-6 mt-16">
       <div className="flex justify-between items-center mb-6">
         <h1 className="text-2xl font-bold">Test Management System</h1>
         <button
           onClick={() => setShowAddTest(true)}
-          className="flex items-center gap-2 bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700"
+          className="flex items-center gap-2 bg-orange-700 text-yellow-100 px-4 py-2 rounded-lg hover:bg-orange-600"
         >
           <FaPlus size={20} />
           Add New Test
@@ -98,7 +98,7 @@ const TestCard = ({ test, onAddMarks }) => {
   const [showDetails, setShowDetails] = useState(false);
 
   return (
-    <div className="bg-white rounded-lg shadow-md p-6">
+    <div className="bg-zinc-900rounded-lg shadow-md p-6">
       <div className="flex justify-between items-center">
         <div>
           <h2 className="text-xl font-semibold">{test.testName}</h2>
@@ -131,10 +131,10 @@ const TestCard = ({ test, onAddMarks }) => {
             <table className="w-full table-auto">
               <thead className="bg-gray-50">
                 <tr>
-                  <th className="px-4 py-2 text-left">Student ID</th>
-                  <th className="px-4 py-2 text-left">Name</th>
-                  <th className="px-4 py-2 text-left">Marks</th>
-                  <th className="px-4 py-2 text-left">Percentage</th>
+                  <th className="px-4 py-2 text-center">Student ID</th>
+                  <th className="px-4 py-2 text-center">Name</th>
+                  <th className="px-4 py-2 text-center">Marks</th>
+                  <th className="px-4 py-2 text-center">Percentage</th>
                 </tr>
               </thead>
               <tbody>
@@ -261,7 +261,7 @@ const AddTestModal = ({ onClose, onTestAdded }) => {
             </button>
             <button
               type="submit"
-              className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 disabled:bg-blue-400"
+              className="px-4 py-2 bg-orange-500 text-white rounded-lg hover:bg-orange-400 disabled:bg-blue-400"
               disabled={loading}
             >
               {loading ? 'Adding...' : 'Add Test'}
@@ -430,7 +430,7 @@ const AddMarksModal = ({ test, onClose, onMarksAdded }) => {
             </button>
             <button
               type="submit"
-              className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 disabled:bg-blue-400"
+              className="px-4 py-2 bg-orange-600 text-white rounded-lg hover:bg-orange-700 disabled:bg-blue-400"
               disabled={loading}
             >
               {loading ? 'Saving...' : 'Save All Marks'}

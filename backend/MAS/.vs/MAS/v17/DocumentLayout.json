@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\gitmarkanalysissystem\\markanalysissystem\\backend\\mas\\mas\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\gitmarkanalysissystem\\markanalysissystem\\backend\\mas\\mas\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\gitmarkanalysissystem\\markanalysissystem\\backend\\mas\\mas\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MAS\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\gitmarkanalysissystem\\markanalysissystem\\backend\\mas\\mas\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +23,8 @@
       "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\gitmarkanalysissystem\\markanalysissystem\\backend\\mas\\mas\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\gitmarkanalysissystem\\markanalysissystem\\backend\\mas\\mas\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\gitmarkanalysissystem\\markanalysissystem\\backend\\mas\\mas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\gitmarkanalysissystem\\markanalysissystem\\backend\\mas\\mas\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\gitmarkanalysissystem\\markanalysissystem\\backend\\mas\\mas\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\gitmarkanalysissystem\\markanalysissystem\\backend\\mas\\mas\\models\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\models\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\gitmarkanalysissystem\\markanalysissystem\\backend\\mas\\mas\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\gitmarkanalysissystem\\markanalysissystem\\backend\\mas\\mas\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\gitmarkanalysissystem\\markanalysissystem\\backend\\mas\\mas\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,6 +73,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|c:\\users\\lapmart\\desktop\\gitmarkanalysissystem\\markanalysissystem\\backend\\mas\\mas\\migrations\\20241215025823_resolverelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B85D4B58-623F-4ADF-9D51-B02A9E8CEC3D}|MAS\\MAS.csproj|solutionrelative:mas\\migrations\\20241215025823_resolverelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Models\\Email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MAS\\Models\\Email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Models\\Mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MAS\\Models\\Mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Models\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MAS\\Models\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -109,20 +109,12 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "MAS\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Controllers\\UserController.cs",
-              "RelativeToolTip": "MAS\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAJ8AAAAAAAAAAAA1wLUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T05:49:40.677Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Email.cs",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Models\\Email.cs",
               "RelativeDocumentMoniker": "MAS\\Models\\Email.cs",
@@ -134,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\.env",
               "RelativeDocumentMoniker": "MAS\\.env",
@@ -146,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "MAS\\Services\\UserService.cs",
@@ -154,12 +146,11 @@
               "RelativeToolTip": "MAS\\Services\\UserService.cs",
               "ViewState": "AQIAAHIAAAAAAAAAAAAUwH0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T04:33:13.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T04:33:13.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "DatabaseContext.cs",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Data\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "MAS\\Data\\DatabaseContext.cs",
@@ -171,19 +162,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "TestController.cs",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "MAS\\Controllers\\TestController.cs",
               "ToolTip": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Controllers\\TestController.cs",
               "RelativeToolTip": "MAS\\Controllers\\TestController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAQwE4AAAAJAAAA",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAQwHwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T00:31:48.601Z"
+              "WhenOpened": "2024-12-15T00:31:48.601Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "Mark.cs",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Models\\Mark.cs",
               "RelativeDocumentMoniker": "MAS\\Models\\Mark.cs",
@@ -195,32 +187,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "TestService.cs",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Services\\TestService.cs",
               "RelativeDocumentMoniker": "MAS\\Services\\TestService.cs",
               "ToolTip": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Services\\TestService.cs",
               "RelativeToolTip": "MAS\\Services\\TestService.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAqwFEAAAAAAAAA",
+              "ViewState": "AQIAANQAAAAAAAAAAAA1wPMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T00:36:52.829Z"
+              "WhenOpened": "2024-12-15T00:36:52.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Models\\User.cs",
               "RelativeDocumentMoniker": "MAS\\Models\\User.cs",
               "ToolTip": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Models\\User.cs",
               "RelativeToolTip": "MAS\\Models\\User.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAIwCwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T04:12:59.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T04:12:59.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MAS\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MAS\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAA1wLUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:49:40.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "20241215025823_ResolveRelation.cs",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Migrations\\20241215025823_ResolveRelation.cs",
               "RelativeDocumentMoniker": "MAS\\Migrations\\20241215025823_ResolveRelation.cs",
@@ -229,10 +232,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T02:58:23.875Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -248,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "Test.cs",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Models\\Test.cs",
               "RelativeDocumentMoniker": "MAS\\Models\\Test.cs",
@@ -260,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "MAS\\Services\\TokenService.cs",
@@ -272,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "EmailController.cs",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Controllers\\EmailController.cs",
               "RelativeDocumentMoniker": "MAS\\Controllers\\EmailController.cs",
@@ -284,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Dtos\\LoginDto.cs",
               "RelativeDocumentMoniker": "MAS\\Dtos\\LoginDto.cs",
@@ -296,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "20241215002751_MarksAndTestModel.cs",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Migrations\\20241215002751_MarksAndTestModel.cs",
               "RelativeDocumentMoniker": "MAS\\Migrations\\20241215002751_MarksAndTestModel.cs",
@@ -308,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Dtos\\RegisterDto.cs",
               "RelativeDocumentMoniker": "MAS\\Dtos\\RegisterDto.cs",
@@ -320,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\appsettings.json",
               "RelativeDocumentMoniker": "MAS\\appsettings.json",
@@ -332,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "20241214143247_EmailModel.cs",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Migrations\\20241214143247_EmailModel.cs",
               "RelativeDocumentMoniker": "MAS\\Migrations\\20241214143247_EmailModel.cs",
@@ -344,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "20241214090913_ChangeSize.cs",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Migrations\\20241214090913_ChangeSize.cs",
               "RelativeDocumentMoniker": "MAS\\Migrations\\20241214090913_ChangeSize.cs",
@@ -356,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "20241214054834_CreateUserModel.cs",
               "DocumentMoniker": "C:\\Users\\LAPMART\\Desktop\\GitMarkAnalysisSystem\\MarkAnalysisSystem\\backend\\MAS\\MAS\\Migrations\\20241214054834_CreateUserModel.cs",
               "RelativeDocumentMoniker": "MAS\\Migrations\\20241214054834_CreateUserModel.cs",

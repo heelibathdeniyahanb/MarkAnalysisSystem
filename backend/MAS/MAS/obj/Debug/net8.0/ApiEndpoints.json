@@ -115,6 +115,16 @@
   },
   {
     "ContainingType": "MAS.Controllers.TestController",
+    "Method": "CompareTests",
+    "RelativePath": "api/Test/compare-tests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MAS.Controllers.TestController",
     "Method": "EditTest",
     "RelativePath": "api/Test/edit-test/{testId}",
     "HttpMethod": "PUT",
@@ -205,6 +215,26 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MAS.Controllers.TestController",
+    "Method": "GetHighestAverage",
+    "RelativePath": "api/Test/highest-average",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MAS.Controllers.TestController",
+    "Method": "GetTopStudents",
+    "RelativePath": "api/Test/top-students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {

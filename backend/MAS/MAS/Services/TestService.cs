@@ -1,6 +1,7 @@
 ﻿using MAS.Data;
 using MAS.Models;
 using Microsoft.EntityFrameworkCore;
+using MAS.Dtos;
 
 namespace MAS.Services
 {
@@ -182,7 +183,68 @@ namespace MAS.Services
                 Marks = marks
             };
         }
+
+        public async Task<HighestAverageDto> GetHighestAverageAsync()
+        {
+            var data = await _context.Marks
+     .GroupBy(m => m.Student.StudentId) // Grouping by StudentId
+     .Select(group => new
+     {
+         StudentId = group.Key, // Ensure this matches the DTO property name
+         UserName = group.FirstOrDefault().Student.FirstName, // Assuming FullName is valid
+         AverageMarks = group.Average(m => m.MarksObtained), // Adjust property name as needed
+         Marks = group.Select(m => m.MarksObtained).ToList()
+     })
+     .OrderByDescending(x => x.AverageMarks)
+     .FirstOrDefaultAsync();
+
+            if (data == null) return null;
+
+            return new HighestAverageDto
+            {
+                StudentId = data.StudentId,
+                UserName = data.UserName,
+                AverageMarks = data.AverageMarks,
+                Marks = data.Marks
+            };
+
+        }
+
+        public async Task<List<object>> GetTestComparisonDataAsync()
+        {
+            var data = await _context.Tests
+                .Select(t => new
+                {
+                    TestId = t.Id,
+                    TestName = t.TestName,
+                    AverageMarks = t.Marks.Average(m => m.MarksObtained)
+                })
+                .OrderByDescending(x => x.AverageMarks)
+                .ToListAsync();
+
+            return data.Cast<object>().ToList();
+        }
+
+        public async Task<List<object>> GetTopStudentsAsync()
+        {
+            var data = await _context.Marks
+                .GroupBy(m => m.Student.StudentId)
+                .Select(group => new
+                {
+                    StudentId = group.Key,
+                    UserName = group.FirstOrDefault().Student.FirstName,
+                    AverageMarks = group.Average(m => m.MarksObtained)
+                })
+                .OrderByDescending(x => x.AverageMarks)
+                .Take(5) // Limit to top 5 students
+                .ToListAsync();
+
+            return data.Cast<object>().ToList();
+        }
+
     }
-    }
+
+
+}
 
 
